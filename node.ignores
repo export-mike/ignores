@@ -1,3 +1,4 @@
+#! /usr/bin/env bash
 curl https://github.com/github/gitignore/blob/master/Node.gitignore --output .gitignore
 curl https://github.com/export-mike/ignores/blob/master/.npmignore --output .npmignore
 
